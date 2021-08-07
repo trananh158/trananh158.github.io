@@ -1,0 +1,82 @@
+*{
+    margin: 0;
+    
+}
+body{
+    background-image: url(48b263c497bed859cfccc48472366b7b.jpg);
+    background-size: cover;
+}
+.tab_menu{
+    position: relative;
+    width:100%;
+    height:50px;
+    background-color: blueviolet;
+}
+.logo{
+    margin-left: 20px;
+    font-size: 50px;
+    font-family: "Nervous Rex";
+    src: url("nervous_rex.ttf");
+    text-decoration: none;
+    color: rgb(126, 215, 250);
+}
+.main{
+    width: 90%;
+    background-color: rgba(255, 0, 212, 0.486);
+    background-size: cover;
+    margin: 50px auto;
+    padding-bottom: 200px;
+}
+.name_game{
+    margin: 0;
+    font-size: 40px;
+    text-align: left;
+    color: cornsilk;
+}
+.bk{
+    width: 100%;
+}
+.contet{
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 20px 20px;
+}
+.contet p {
+    font-size: 20px;
+    color: cornsilk;
+}
+.contet img{
+    width: 100%;
+}
+.info_game{
+    border-radius: 20px;
+    margin: 20px auto;
+    padding: 50px 50px;
+    width: 50%;
+    background-color:rgba(169, 169, 169, 0.582);
+    font-size: 20px;
+}
+.dow_game{
+    margin: 0 auto;
+    padding: 50px 50px;
+    width: 50%;
+    background-color: rgb(255, 243, 188);
+    border-radius: 20px;
+}
+.dow_game p{
+    color: black;
+}
+.game{
+    margin: 2px;
+    width: 234px;
+    padding: 20px;
+    
+}
+.game a{
+    text-decoration: none;
+    color: antiquewhite;
+}
+.game img{
+    width: 100%;
+}
